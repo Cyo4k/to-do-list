@@ -1,0 +1,14 @@
+{
+  "name": "novoteste",
+  "version": "1.0.0",
+  "description": "Projeto to-do-list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "João Brasileiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
